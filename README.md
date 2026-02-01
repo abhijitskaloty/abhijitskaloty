@@ -23,5 +23,6 @@ languages: [C++, C, Java, Python, JavaScript, SQL, Verilog, ARMv7, RISC-V]
 tools: [Git, Linux, Kubernetes, Jenkins, Gradle, Maven, Spring Boot, ActiveMQ]
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhijit%20Kaloty-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-singh-kaloty-2a702919b/)
-[![Email](https://img.shields.io/badge/Email-abhijitskaloty%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:abhijitskaloty@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-singh-kaloty-2a702919b/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijitskaloty@gmail.com?subject=Hello%20Abhijit&body=Hi%20Abhijit%2C%0A%0AI'm%20reaching%20out%20because%20...%0A%0ABest%2C%0A)
+
